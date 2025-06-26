@@ -4,8 +4,12 @@
  * Commercial use requires license.
  * Contact: Fordamboy1@gmail.com
  */
-module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? 'https://hseager.github.io/Classic-WoW-Talent-Planner'
-      : '/'
-}
+./dist/js/app.6d976677.js
+./dist/js/chunk-vendors.d8ea09fc.js
+./includes/Mixins.js
+./includes/Store.js
+./includes/Config.js
+./index.js
+./vue.config.js
+./.eslintrc.js
+./valid_targets.txt
