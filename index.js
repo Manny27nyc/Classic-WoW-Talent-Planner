@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Vue from 'vue';
 import { store } from './includes/Store.js';
 import './includes/Mixins.js';
